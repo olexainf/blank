@@ -1,5 +1,5 @@
 # Blank
 Blank project.
-Jast for fun.
+Just for fun.
 
 Keep calm and love Ukraine!
